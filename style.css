@@ -1,0 +1,38 @@
+body{
+    background-color: blue;
+}
+
+
+
+button{
+    background-color:blue;
+    border-color:blue;
+    border-radius: 5px;
+    padding: 6px 12px 6px 12px;
+   
+}
+.bold{
+    background-color: white;
+    background-position:center;
+    padding-top: 16px;
+    padding-bottom: 19px;
+    width: 300px;
+    height: 450px;
+    margin-left: 450px;
+    margin-top:60px;
+    border-radius: 10px;
+    box-shadow: black;
+    padding-left: 20px;
+}
+img{
+   border-radius: 10px;
+}
+.ode{
+    display: flex;
+    border-radius: 30px;
+    align-items: center;
+    gap: 10px;
+}
+.idan{
+    border-radius: 30px;
+}
