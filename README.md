@@ -1,2 +1,2 @@
-# Frontend-monitor-challenge
+# Frontend-mentor-challenge
 HTML &amp; CSS
